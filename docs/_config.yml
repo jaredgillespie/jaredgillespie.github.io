@@ -28,7 +28,7 @@ twitter_username: # none
 github_username:  jaredgillespie
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
